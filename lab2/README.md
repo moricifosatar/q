@@ -1,5 +1,5 @@
 ---
-title: "lab1"
+title: "lab2"
 output: html_document
 date: "2023-03-21"
 ---
